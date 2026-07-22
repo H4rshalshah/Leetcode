@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/H4rshalshah/Leetcode/tree/master/0547-number-of-provinces) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/H4rshalshah/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/H4rshalshah/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
