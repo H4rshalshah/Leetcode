@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/H4rshalshah/Leetcode/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/H4rshalshah/Leetcode/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
