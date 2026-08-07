@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/H4rshalshah/Leetcode/tree/master/0038-count-and-say) |
 | [0459-repeated-substring-pattern](https://github.com/H4rshalshah/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/H4rshalshah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -115,4 +116,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/H4rshalshah/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Math
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/H4rshalshah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/H4rshalshah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/H4rshalshah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/H4rshalshah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
