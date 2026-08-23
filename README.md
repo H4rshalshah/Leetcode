@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/H4rshalshah/Leetcode/tree/master/0038-count-and-say) |
 | [0459-repeated-substring-pattern](https://github.com/H4rshalshah/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [1927-sum-game](https://github.com/H4rshalshah/Leetcode/tree/master/1927-sum-game) |
 | [2418-sort-the-people](https://github.com/H4rshalshah/Leetcode/tree/master/2418-sort-the-people) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/H4rshalshah/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/H4rshalshah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/H4rshalshah/Leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/H4rshalshah/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/H4rshalshah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/H4rshalshah/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/H4rshalshah/Leetcode/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/H4rshalshah/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/H4rshalshah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/H4rshalshah/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/H4rshalshah/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
