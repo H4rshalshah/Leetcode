@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/H4rshalshah/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/H4rshalshah/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/H4rshalshah/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1872-stone-game-viii](https://github.com/H4rshalshah/Leetcode/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/H4rshalshah/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/H4rshalshah/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2418-sort-the-people](https://github.com/H4rshalshah/Leetcode/tree/master/2418-sort-the-people) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/H4rshalshah/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/H4rshalshah/Leetcode/tree/master/0542-01-matrix) |
+| [1872-stone-game-viii](https://github.com/H4rshalshah/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/H4rshalshah/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Tree
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/H4rshalshah/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/H4rshalshah/Leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/H4rshalshah/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/H4rshalshah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -176,9 +179,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/H4rshalshah/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/H4rshalshah/Leetcode/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/H4rshalshah/Leetcode/tree/master/1929-concatenation-of-array) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/H4rshalshah/Leetcode/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/H4rshalshah/Leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/H4rshalshah/Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
