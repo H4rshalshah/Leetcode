@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/H4rshalshah/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/H4rshalshah/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/H4rshalshah/Leetcode/tree/master/0200-number-of-islands) |
+| [0416-partition-equal-subset-sum](https://github.com/H4rshalshah/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/H4rshalshah/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/H4rshalshah/Leetcode/tree/master/0733-flood-fill) |
 | [0896-monotonic-array](https://github.com/H4rshalshah/Leetcode/tree/master/0896-monotonic-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/H4rshalshah/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/H4rshalshah/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/H4rshalshah/Leetcode/tree/master/0542-01-matrix) |
 | [1872-stone-game-viii](https://github.com/H4rshalshah/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/H4rshalshah/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/H4rshalshah/Leetcode/tree/master/1872-stone-game-viii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/H4rshalshah/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/H4rshalshah/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
