@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/H4rshalshah/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/H4rshalshah/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1051-height-checker](https://github.com/H4rshalshah/Leetcode/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/H4rshalshah/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1470-shuffle-the-array](https://github.com/H4rshalshah/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/H4rshalshah/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/H4rshalshah/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/H4rshalshah/Leetcode/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/H4rshalshah/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/H4rshalshah/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/H4rshalshah/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/H4rshalshah/Leetcode/tree/master/2418-sort-the-people) |
