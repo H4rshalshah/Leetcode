@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/H4rshalshah/Leetcode/tree/master/0896-monotonic-array) |
 | [0994-rotting-oranges](https://github.com/H4rshalshah/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/H4rshalshah/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1051-height-checker](https://github.com/H4rshalshah/Leetcode/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/H4rshalshah/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/H4rshalshah/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/H4rshalshah/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/H4rshalshah/Leetcode/tree/master/1051-height-checker) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/H4rshalshah/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/H4rshalshah/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/H4rshalshah/Leetcode/tree/master/2418-sort-the-people) |
@@ -240,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/H4rshalshah/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/H4rshalshah/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/H4rshalshah/Leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/H4rshalshah/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
