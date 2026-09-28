@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/H4rshalshah/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0459-repeated-substring-pattern](https://github.com/H4rshalshah/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0819-most-common-word](https://github.com/H4rshalshah/Leetcode/tree/master/0819-most-common-word) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/H4rshalshah/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/H4rshalshah/Leetcode/tree/master/1927-sum-game) |
 | [2418-sort-the-people](https://github.com/H4rshalshah/Leetcode/tree/master/2418-sort-the-people) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/H4rshalshah/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -255,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/H4rshalshah/Leetcode/tree/master/1051-height-checker) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/H4rshalshah/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/H4rshalshah/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
