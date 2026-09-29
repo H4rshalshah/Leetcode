@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/H4rshalshah/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/H4rshalshah/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/H4rshalshah/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/H4rshalshah/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0322-coin-change](https://github.com/H4rshalshah/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/H4rshalshah/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/H4rshalshah/Leetcode/tree/master/0518-coin-change-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/H4rshalshah/Leetcode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/H4rshalshah/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [1051-height-checker](https://github.com/H4rshalshah/Leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/H4rshalshah/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/H4rshalshah/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/H4rshalshah/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/H4rshalshah/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/H4rshalshah/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Complete Knapsack
 |  |
@@ -276,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/H4rshalshah/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/H4rshalshah/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/H4rshalshah/Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
