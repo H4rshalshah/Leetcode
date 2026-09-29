@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/H4rshalshah/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/H4rshalshah/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1051-height-checker](https://github.com/H4rshalshah/Leetcode/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/H4rshalshah/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/H4rshalshah/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1470-shuffle-the-array](https://github.com/H4rshalshah/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/H4rshalshah/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1089-duplicate-zeros](https://github.com/H4rshalshah/Leetcode/tree/master/1089-duplicate-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/H4rshalshah/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Counting
 |  |
