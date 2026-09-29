@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/H4rshalshah/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2418-sort-the-people](https://github.com/H4rshalshah/Leetcode/tree/master/2418-sort-the-people) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/H4rshalshah/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/H4rshalshah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/H4rshalshah/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/H4rshalshah/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2418-sort-the-people](https://github.com/H4rshalshah/Leetcode/tree/master/2418-sort-the-people) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/H4rshalshah/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/H4rshalshah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/H4rshalshah/Leetcode/tree/master/0819-most-common-word) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/H4rshalshah/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/H4rshalshah/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/H4rshalshah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/H4rshalshah/Leetcode/tree/master/1872-stone-game-viii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/H4rshalshah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -295,4 +299,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/H4rshalshah/Leetcode/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/H4rshalshah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/H4rshalshah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/H4rshalshah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
