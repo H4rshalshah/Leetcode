@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/H4rshalshah/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/H4rshalshah/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/H4rshalshah/Leetcode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/H4rshalshah/Leetcode/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/H4rshalshah/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/H4rshalshah/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/H4rshalshah/Leetcode/tree/master/0518-coin-change-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/H4rshalshah/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/H4rshalshah/Leetcode/tree/master/0217-contains-duplicate) |
 | [0819-most-common-word](https://github.com/H4rshalshah/Leetcode/tree/master/0819-most-common-word) |
 | [0997-find-the-town-judge](https://github.com/H4rshalshah/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/H4rshalshah/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/H4rshalshah/Leetcode/tree/master/0217-contains-duplicate) |
 | [1051-height-checker](https://github.com/H4rshalshah/Leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/H4rshalshah/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/H4rshalshah/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
