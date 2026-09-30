@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/H4rshalshah/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/H4rshalshah/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/H4rshalshah/Leetcode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/H4rshalshah/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/H4rshalshah/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/H4rshalshah/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/H4rshalshah/Leetcode/tree/master/0518-coin-change-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/H4rshalshah/Leetcode/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/H4rshalshah/Leetcode/tree/master/1089-duplicate-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/H4rshalshah/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Counting
