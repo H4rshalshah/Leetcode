@@ -334,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/H4rshalshah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/H4rshalshah/Leetcode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
