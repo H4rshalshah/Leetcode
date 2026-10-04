@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/H4rshalshah/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/H4rshalshah/Leetcode/tree/master/0038-count-and-say) |
 | [0168-excel-sheet-column-title](https://github.com/H4rshalshah/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/H4rshalshah/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0459-repeated-substring-pattern](https://github.com/H4rshalshah/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/H4rshalshah/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/H4rshalshah/Leetcode/tree/master/0819-most-common-word) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/H4rshalshah/Leetcode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/H4rshalshah/Leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/H4rshalshah/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/H4rshalshah/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1872-stone-game-viii](https://github.com/H4rshalshah/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/H4rshalshah/Leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/H4rshalshah/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/H4rshalshah/Leetcode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/H4rshalshah/Leetcode/tree/master/0089-gray-code) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/H4rshalshah/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/H4rshalshah/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
