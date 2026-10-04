@@ -338,4 +338,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/H4rshalshah/Leetcode/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/H4rshalshah/Leetcode/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
