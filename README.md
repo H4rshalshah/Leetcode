@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/H4rshalshah/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/H4rshalshah/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/H4rshalshah/Leetcode/tree/master/0229-majority-element-ii) |
+| [0398-random-pick-index](https://github.com/H4rshalshah/Leetcode/tree/master/0398-random-pick-index) |
 | [0819-most-common-word](https://github.com/H4rshalshah/Leetcode/tree/master/0819-most-common-word) |
 | [0997-find-the-town-judge](https://github.com/H4rshalshah/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/H4rshalshah/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/H4rshalshah/Leetcode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/H4rshalshah/Leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/H4rshalshah/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0398-random-pick-index](https://github.com/H4rshalshah/Leetcode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/H4rshalshah/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1872-stone-game-viii](https://github.com/H4rshalshah/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/H4rshalshah/Leetcode/tree/master/1927-sum-game) |
@@ -355,4 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/H4rshalshah/Leetcode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/H4rshalshah/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/H4rshalshah/Leetcode/tree/master/0595-big-countries) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/H4rshalshah/Leetcode/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/H4rshalshah/Leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
