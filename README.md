@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/H4rshalshah/Leetcode/tree/master/0819-most-common-word) |
 | [0997-find-the-town-judge](https://github.com/H4rshalshah/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/H4rshalshah/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/H4rshalshah/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/H4rshalshah/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2418-sort-the-people](https://github.com/H4rshalshah/Leetcode/tree/master/2418-sort-the-people) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/H4rshalshah/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/H4rshalshah/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/H4rshalshah/Leetcode/tree/master/0819-most-common-word) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/H4rshalshah/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/H4rshalshah/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/H4rshalshah/Leetcode/tree/master/1927-sum-game) |
 | [2418-sort-the-people](https://github.com/H4rshalshah/Leetcode/tree/master/2418-sort-the-people) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/H4rshalshah/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
