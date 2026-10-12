@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/H4rshalshah/Leetcode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/H4rshalshah/Leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/H4rshalshah/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/H4rshalshah/Leetcode/tree/master/0231-power-of-two) |
 | [0398-random-pick-index](https://github.com/H4rshalshah/Leetcode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/H4rshalshah/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1872-stone-game-viii](https://github.com/H4rshalshah/Leetcode/tree/master/1872-stone-game-viii) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/H4rshalshah/Leetcode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/H4rshalshah/Leetcode/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/H4rshalshah/Leetcode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/H4rshalshah/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/H4rshalshah/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/H4rshalshah/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/H4rshalshah/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
