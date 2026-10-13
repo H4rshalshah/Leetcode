@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/H4rshalshah/Leetcode/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/H4rshalshah/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/H4rshalshah/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/H4rshalshah/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/H4rshalshah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/H4rshalshah/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Hash Table
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/H4rshalshah/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/H4rshalshah/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/H4rshalshah/Leetcode/tree/master/2418-sort-the-people) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/H4rshalshah/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/H4rshalshah/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/H4rshalshah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/H4rshalshah/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/H4rshalshah/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Number Theory
 |  |
 | ------- |
