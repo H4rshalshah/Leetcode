@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/H4rshalshah/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/H4rshalshah/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/H4rshalshah/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3665-twisted-mirror-path-count](https://github.com/H4rshalshah/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/H4rshalshah/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/H4rshalshah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/H4rshalshah/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/H4rshalshah/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/H4rshalshah/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/H4rshalshah/Leetcode/tree/master/1020-number-of-enclaves) |
+| [3665-twisted-mirror-path-count](https://github.com/H4rshalshah/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/H4rshalshah/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1872-stone-game-viii](https://github.com/H4rshalshah/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/H4rshalshah/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3665-twisted-mirror-path-count](https://github.com/H4rshalshah/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Tree
 |  |
 | ------- |
