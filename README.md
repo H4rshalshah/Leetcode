@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/H4rshalshah/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3665-twisted-mirror-path-count](https://github.com/H4rshalshah/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/H4rshalshah/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/H4rshalshah/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/H4rshalshah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/H4rshalshah/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Hash Table
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/H4rshalshah/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/H4rshalshah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/H4rshalshah/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/H4rshalshah/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Backtracking
 |  |
 | ------- |
